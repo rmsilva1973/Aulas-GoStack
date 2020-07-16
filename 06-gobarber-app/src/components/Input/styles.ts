@@ -65,6 +65,7 @@ export const Error = styled(Tooltip)`
   svg {
     margin: 0;
   }
+
   span {
     background: #c53030;
     color: #fff;

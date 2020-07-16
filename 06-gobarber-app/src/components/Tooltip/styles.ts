@@ -14,7 +14,7 @@ export const Container = styled.div`
     transition: opacity 0.4s;
     visibility: hidden;
 
-    position: abolute;
+    position: absolute;
     bottom: calc(100% + 12px);
     width: 160px;
     left: 50%;
@@ -25,7 +25,7 @@ export const Container = styled.div`
     &::before {
       content: '';
       border-style: solid;
-      border-color: #ff9000 transparent;
+      border-color: #c53030 transparent;
       border-width: 6px 6px 0 6px;
       top: 100%;
       position: absolute;
